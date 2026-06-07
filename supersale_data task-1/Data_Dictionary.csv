@@ -1,0 +1,16 @@
+Column Name,Data Type
+ship_mode,object
+segment,object
+country,object
+city,object
+state,object
+postal_code,int64
+region,object
+category,object
+sub-category,object
+sales,float64
+quantity,int64
+discount,float64
+profit,float64
+profit_margin,float64
+discount_category,category
